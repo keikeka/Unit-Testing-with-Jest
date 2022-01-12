@@ -31,7 +31,7 @@
   "dependencies": {
     "@popperjs/core": "^2.10.1",
     "bootstrap": "^5.1.1",
-    "jest": "^27.3.1"
+    "jest": "^27.4.7"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
